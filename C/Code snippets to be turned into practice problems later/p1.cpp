@@ -1,4 +1,8 @@
 #include <iostream>
+/*
+    For help compiling go to:
+    https://www.geeksforgeeks.org/linux-unix/compiling-with-g-plus-plus/
+*/
 
 int main(){
     //This is a comment
